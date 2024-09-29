@@ -101,4 +101,3 @@ Feel free to further modify the HTML and CSS files to add more elements, change 
 This project is open source and available under the [MIT License](LICENSE).
 
 Happy customizing!
-```
