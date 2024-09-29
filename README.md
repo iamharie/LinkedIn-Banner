@@ -2,7 +2,7 @@
 
 This project allows you to create a personalized LinkedIn banner showcasing your GitHub contributions graph and professional information. Follow the steps below to customize the banner for your profile.
 
-## Example Banner
+## My Banner
 
 <img width="1438" alt="Screenshot 2024-09-28 at 10 07 02 PM" src="https://github.com/user-attachments/assets/6dba511b-471a-4da0-9073-51d676518741">
 
