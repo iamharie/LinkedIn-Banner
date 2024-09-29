@@ -40,7 +40,14 @@ Example:
 4. If you prefer a different file name, update the `src` attribute of the `<img>` tag in the HTML file:
 
 ```html
-
+  <div class="image-container">
+        <img
+          src="Assets/myContributions.png"
+          alt="Contribution graph"
+          class="graph-image"
+          id="graphImage"
+        />
+  </div>
 ```
 
 ### 3. Customize Colors
